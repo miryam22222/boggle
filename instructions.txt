@@ -1,0 +1,13 @@
+Hello and welcome to BOGGLE!
+The insctructions are simple:
+
+Your goal is to search for words. How? Press a letter and start draging it in all possible directions (up, down, left, right and in diagonal, one letter at a time)
+
+Once your word is complete - leave the mouse. If your word exists in our dictionary - it will appear on the board under the section "Found Words"
+
+The more words you find - the greater you score is! Each word grants you a score of the square of its length, and the current score can also be found on the screen
+
+You have 3 minutes
+
+GOOD LUCK :)
+
